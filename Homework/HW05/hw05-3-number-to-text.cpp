@@ -73,7 +73,7 @@ int main() {
         break ;
 
     case 12 :
-        printf( "Tewlve" ) ;
+        printf( "Twelve" ) ;
         break ;
 
     case 13 :
